@@ -1,0 +1,49 @@
+ /* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center; 
+} */
+
+.headshot {
+  max-width: 15rem;
+  max-height: auto;
+  border-radius: 50%;
+}
+
+.icons {
+  color: white;
+  margin: 1rem;
+  font-size: 3rem;
+}
+
+.main-div {
+  display: flex; 
+  height: 100vh;
+  justify-content: center; 
+  align-items: center;
+
+}
+
+.description{
+  margin-top: 0px;
+} 
+
+.intro {
+  margin-bottom: 0px;
+} 
+
+.group-1 {
+  margin-right: 10rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.group-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

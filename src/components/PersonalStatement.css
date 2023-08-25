@@ -1,0 +1,27 @@
+.text-background {
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    max-width: 40rem;
+    max-height: 40rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    background: white;
+    overflow-y: scroll;
+    border-radius: 2rem;
+}
+
+/* is it worth messing with the padding on the bottom */
+
+.text-background > p {
+    color: #222222;
+    font-size: 0.95rem;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.list {
+    color: #222222;
+    text-align: left;
+    list-style-type: circle;
+}
